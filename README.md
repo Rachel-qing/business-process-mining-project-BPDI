@@ -1,4 +1,4 @@
-# Business Process and Data Integration (BPDI) Project
+# Business Process Mining (BPDI) Project
 
 This project focuses on optimizing a customer onboarding and fraud detection process in a financial service scenario, covering the full lifecycle of:
 
@@ -54,14 +54,6 @@ The project simulates a real-world enterprise transition from a **manual As-Is p
 
 ---
 
-## 🚀 Key Results
-📈 Throughput improvement: 150 → 210 cases/month (+40%)
-⚙️ Zero additional resources (pure process optimization)
-🔍 Identified core bottleneck: Fraud Review stage
-🔄 Improvements validated via simulation + process mining
-
----
-
 ## 🧩 Module 1 — As-Is Process Modeling
 
 **Goal:** Formalize the current process into a structured and analyzable model  
@@ -100,6 +92,14 @@ The project simulates a real-world enterprise transition from a **manual As-Is p
 - Discovered process models using multiple mining algorithms (Alpha, Inductive, Heuristic) (`ProjectReport.pdf`)  
 - Analyzed bottlenecks using performance spectrum and dotted charts (`ProjectReport.pdf`)  
 - Evaluated resource allocation and collaboration patterns (`logs/*.xes`)  
+
+---
+
+## 🚀 Key Results
+- 📈 Throughput improvement: 150 → 210 cases/month (+40%)
+- ⚙️ Zero additional resources (pure process optimization)
+- 🔍 Identified core bottleneck: Fraud Review stage
+- 🔄 Improvements validated via simulation + process mining
 
 ---
 
